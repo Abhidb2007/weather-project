@@ -20,3 +20,12 @@ body {
   color: #fff;
   text-align: center;
 }
+
+.search {
+  width: 100%;
+  height: 50px;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  display: flex;
+}
